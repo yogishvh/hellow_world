@@ -1,1 +1,2 @@
-dir /b /a-d
+@echo off 
+echo %1 
